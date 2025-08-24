@@ -1,0 +1,26 @@
+{
+  "name": "cmm",
+  "version": "1.0.0",
+  "description": "This document outlines the technical specifications for a personal finance management application. The goal is to create a simple, user-friendly application that allows users to track their income, expenses, and account balances. The application will be built using modern, open-source technologies. The application name is CMM.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisaporto/CMM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moisaporto/CMM/issues"
+  },
+  "homepage": "https://github.com/moisaporto/CMM#readme",
+  "devDependencies": {
+    "@angular/cli": "^18.2.20"
+  }
+}
