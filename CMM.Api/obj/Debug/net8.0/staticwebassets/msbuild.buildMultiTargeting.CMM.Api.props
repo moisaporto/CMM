@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CMM.Api.props" />
+</Project>
